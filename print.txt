@@ -1,0 +1,167 @@
+C:\Users\Alana\Desktop\pythonProject\venv\Scripts\python.exe C:/Users/Alana/Desktop/pythonProject/main.py
+Access completed in spreadsheet. <Spreadsheet 'Prova Engenharia de Dados - Planilha de compras' id:1R35f_ayWwfywTSN14PifndqG2YjMOida6zgnnNO0XxI>
+  
+Verificando Coluna A... 
+Coluna A Linha 52 Célula está vazia, verificar data, alterado para NULL.
+Coluna A Linha 71 Célula está vazia, verificar data, alterado para NULL.
+  
+Verificando Coluna B... 
+Coluna B Linha 3 Correção da palavra Lava roupas.
+Coluna B Linha 5 Correção da palavra Lava roupas.
+Coluna B Linha 8 Correção da palavra Lava roupas.
+Coluna B Linha 32 Correção da palavra Lava roupas.
+Coluna B Linha 33 Correção da palavra Lava roupas.
+Coluna B Linha 36 Correção da palavra Lava roupas.
+Coluna B Linha 37 Correção da palavra Lava roupas.
+Coluna B Linha 39 Correção da palavra Lava roupas.
+Coluna B Linha 41 Correção da palavra Lava roupas.
+Coluna B Linha 47 Correção da palavra Lava roupas.
+Coluna B Linha 49 Correção da palavra Lava roupas.
+Coluna B Linha 50 Correção da palavra Lava roupas.
+Coluna B Linha 51 Correção da palavra Lava roupas.
+Coluna B Linha 57 Correção da palavra Lava roupas.
+Coluna B Linha 64 Célula está vazia, verificar item.
+Coluna B Linha 75 Correção da palavra Lava roupas.
+Coluna B Linha 80 Correção da palavra Lava roupas.
+Coluna B Linha 88 Correção da palavra Lava roupas.
+Coluna B Linha 90 Correção da palavra Lava roupas.
+Coluna B Linha 109 Correção da palavra Lava roupas.
+Coluna B Linha 112 Correção da palavra Lava roupas.
+Coluna B Linha 115 Célula está vazia, verificar item.
+Coluna B Linha 117 Correção da palavra Lava roupas.
+Coluna B Linha 123 Correção da palavra Lava roupas.
+  
+Verificando Coluna C... 
+Coluna C Linha 2 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 3 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 4 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 5 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 6 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 7 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 8 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 9 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 10 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 12 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 13 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 14 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 15 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 16 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 18 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 19 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 20 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 21 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 22 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 23 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 24 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 25 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 26 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 27 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 28 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 29 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 31 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 32 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 33 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 34 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 35 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 36 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 37 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 38 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 39 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 40 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 41 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 42 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 43 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 44 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 45 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 46 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 47 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 48 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 50 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 51 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 52 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 53 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 54 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 55 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 57 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 58 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 59 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 60 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 61 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 62 Célula está vazia, verificar valor.
+Coluna C Linha 63 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 64 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 65 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 66 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 67 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 68 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 69 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 70 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 71 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 72 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 73 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 74 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 75 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 76 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 77 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 78 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 79 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 80 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 81 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 82 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 83 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 84 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 85 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 86 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 87 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 88 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 89 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 90 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 91 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 92 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 93 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 94 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 95 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 96 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 97 Célula está vazia, verificar valor.
+Coluna C Linha 98 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 99 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 100 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 101 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 102 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 103 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 104 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 105 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 106 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 107 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 108 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 109 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 110 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 111 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 112 Célula está vazia, verificar valor.
+Coluna C Linha 113 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 114 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 115 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 116 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 117 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 118 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 119 Célula está vazia, verificar valor.
+Coluna C Linha 120 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 121 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 122 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 123 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 124 Correção do $ efetuada ao inicio do valor.
+Coluna C Linha 125 Correção do $ efetuada ao inicio do valor.
+  
+Verificando Coluna D... 
+Coluna D Linha 17 Correção do % efetuada ao final do imposto.
+Coluna D Linha 59 Célula está vazia, verificar imposto.
+Coluna D Linha 65 Correção do % efetuada ao final do imposto.
+Coluna D Linha 94 Célula está vazia, verificar imposto.
+Coluna D Linha 104 Correção do % efetuada ao final do imposto.
+Coluna D Linha 107 Célula está vazia, verificar imposto.
+Coluna D Linha 109 Correção do % efetuada ao final do imposto.
+Coluna D Linha 118 Célula está vazia, verificar imposto.
+Correction completed.
+Access the file: Corrigido - Prova Engenharia de Dados - Planilha de compras.csv
+
+Process finished with exit code 0

@@ -1,0 +1,161 @@
+2021-03-22 01:48:03,541 - INFO - Access completed in spreadsheet.
+2021-03-22 01:48:03,541 - INFO - <Spreadsheet 'Prova Engenharia de Dados - Planilha de compras' id:1R35f_ayWwfywTSN14PifndqG2YjMOida6zgnnNO0XxI>
+2021-03-22 01:48:05,316 - INFO - Verificando Coluna A... 
+2021-03-22 01:48:05,316 - WARNING - Coluna A Linha 52 Celula esta vazia, verificar data, alterado para NULL.
+2021-03-22 01:48:05,317 - WARNING - Coluna A Linha 71 Celula esta vazia, verificar data, alterado para NULL.
+2021-03-22 01:48:05,317 - INFO - Verificando Coluna B... 
+2021-03-22 01:48:05,317 - INFO - Coluna B Linha 3 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,317 - INFO - Coluna B Linha 5 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,317 - INFO - Coluna B Linha 8 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,317 - INFO - Coluna B Linha 32 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,318 - INFO - Coluna B Linha 33 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,318 - INFO - Coluna B Linha 36 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,318 - INFO - Coluna B Linha 37 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,318 - INFO - Coluna B Linha 39 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,318 - INFO - Coluna B Linha 41 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,318 - INFO - Coluna B Linha 47 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,319 - INFO - Coluna B Linha 49 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,319 - INFO - Coluna B Linha 50 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,319 - INFO - Coluna B Linha 51 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,319 - INFO - Coluna B Linha 57 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,319 - WARNING - Coluna B Linha 64 Celula esta vazia, verificar item, alterado para NULL.
+2021-03-22 01:48:05,319 - INFO - Coluna B Linha 75 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,320 - INFO - Coluna B Linha 80 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,320 - INFO - Coluna B Linha 88 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,320 - INFO - Coluna B Linha 90 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,320 - INFO - Coluna B Linha 109 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,320 - INFO - Coluna B Linha 112 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,320 - WARNING - Coluna B Linha 115 Celula esta vazia, verificar item, alterado para NULL.
+2021-03-22 01:48:05,321 - INFO - Coluna B Linha 117 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,321 - INFO - Coluna B Linha 123 Correcao da palavra Lava roupas.
+2021-03-22 01:48:05,321 - INFO - Verificando Coluna C... 
+2021-03-22 01:48:05,321 - INFO - Coluna C Linha 2 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,321 - INFO - Coluna C Linha 3 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,321 - INFO - Coluna C Linha 4 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,322 - INFO - Coluna C Linha 5 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,322 - INFO - Coluna C Linha 6 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,322 - INFO - Coluna C Linha 7 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,322 - INFO - Coluna C Linha 8 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,322 - INFO - Coluna C Linha 9 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,322 - INFO - Coluna C Linha 10 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,323 - INFO - Coluna C Linha 12 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,323 - INFO - Coluna C Linha 13 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,323 - INFO - Coluna C Linha 14 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,323 - INFO - Coluna C Linha 15 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,323 - INFO - Coluna C Linha 16 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,323 - INFO - Coluna C Linha 18 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,324 - INFO - Coluna C Linha 19 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,324 - INFO - Coluna C Linha 20 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,324 - INFO - Coluna C Linha 21 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,324 - INFO - Coluna C Linha 22 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,324 - INFO - Coluna C Linha 23 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,324 - INFO - Coluna C Linha 24 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,325 - INFO - Coluna C Linha 25 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,325 - INFO - Coluna C Linha 26 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,325 - INFO - Coluna C Linha 27 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,325 - INFO - Coluna C Linha 28 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,326 - INFO - Coluna C Linha 29 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,326 - INFO - Coluna C Linha 31 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,326 - INFO - Coluna C Linha 32 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,326 - INFO - Coluna C Linha 33 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,327 - INFO - Coluna C Linha 34 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,327 - INFO - Coluna C Linha 35 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,327 - INFO - Coluna C Linha 36 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,327 - INFO - Coluna C Linha 37 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,328 - INFO - Coluna C Linha 38 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,328 - INFO - Coluna C Linha 39 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,328 - INFO - Coluna C Linha 40 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,328 - INFO - Coluna C Linha 41 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 42 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 43 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 44 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 45 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 46 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 47 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 48 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 50 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 51 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,329 - INFO - Coluna C Linha 52 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 53 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 54 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 55 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 57 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 58 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 59 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 60 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 61 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,330 - WARNING - Coluna C Linha 62 Celula esta vazia, verificar valor, alterado para NULL.
+2021-03-22 01:48:05,330 - INFO - Coluna C Linha 63 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 64 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 65 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 66 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 67 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 68 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 69 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 70 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 71 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 72 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 73 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,331 - INFO - Coluna C Linha 74 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 75 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 76 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 77 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 78 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 79 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 80 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 81 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 82 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 83 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,332 - INFO - Coluna C Linha 84 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 85 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 86 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 87 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 88 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 89 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 90 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 91 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 92 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,333 - INFO - Coluna C Linha 93 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,341 - INFO - Coluna C Linha 94 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,341 - INFO - Coluna C Linha 95 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,341 - INFO - Coluna C Linha 96 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,341 - WARNING - Coluna C Linha 97 Celula esta vazia, verificar valor, alterado para NULL.
+2021-03-22 01:48:05,341 - INFO - Coluna C Linha 98 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,341 - INFO - Coluna C Linha 99 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,341 - INFO - Coluna C Linha 100 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,341 - INFO - Coluna C Linha 101 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 102 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 103 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 104 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 105 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 106 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 107 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 108 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 109 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 110 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,342 - INFO - Coluna C Linha 111 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - WARNING - Coluna C Linha 112 Celula esta vazia, verificar valor, alterado para NULL.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 113 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 114 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 115 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 116 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 117 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 118 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - WARNING - Coluna C Linha 119 Celula esta vazia, verificar valor, alterado para NULL.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 120 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 121 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,343 - INFO - Coluna C Linha 122 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,344 - INFO - Coluna C Linha 123 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,344 - INFO - Coluna C Linha 124 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,344 - INFO - Coluna C Linha 125 Correcao do $ efetuada ao inicio do valor.
+2021-03-22 01:48:05,344 - INFO - Verificando Coluna D... 
+2021-03-22 01:48:05,344 - INFO - Coluna D Linha 17 Correcao do % efetuada ao final do imposto.
+2021-03-22 01:48:05,344 - WARNING - Coluna D Linha 59 Celula esta vazia, verificar imposto, alterado para NULL.
+2021-03-22 01:48:05,344 - INFO - Coluna D Linha 65 Correcao do % efetuada ao final do imposto.
+2021-03-22 01:48:05,344 - WARNING - Coluna D Linha 94 Celula esta vazia, verificar imposto, alterado para NULL.
+2021-03-22 01:48:05,344 - INFO - Coluna D Linha 104 Correcao do % efetuada ao final do imposto.
+2021-03-22 01:48:05,344 - WARNING - Coluna D Linha 107 Celula esta vazia, verificar imposto, alterado para NULL.
+2021-03-22 01:48:05,345 - INFO - Coluna D Linha 109 Correcao do % efetuada ao final do imposto.
+2021-03-22 01:48:05,345 - WARNING - Coluna D Linha 118 Celula esta vazia, verificar imposto, alterado para NULL.
+2021-03-22 01:48:07,834 - INFO - >> Correction completed.
+2021-03-22 01:48:07,835 - INFO - Access the file: Corrigido - Prova Engenharia de Dados - Planilha de compras.csv
